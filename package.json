@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "axios": "^1.3.6",
+    "cron": "^2.3.0",
+    "curl": "^0.1.4",
+    "ethers": "^5.7.2",
+    "express": "^4.18.2",
+    "typescript": "^5.0.4",
+    "web3": "^4.0.1-alpha.1"
+  },
+  "name": "worker_web3",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
